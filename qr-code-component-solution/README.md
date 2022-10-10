@@ -54,4 +54,4 @@ ___
 ___
 
 - Website - [Mithil M Pathak](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Mithil-06](https://www.frontendmentor.io/profile/Mithil-06)
